@@ -104,6 +104,6 @@ try {
 
 
 System.out.println("Wow! We're so close to getting your magic number! \nSay the magic words" + " AddMe Sums" + " and it's yours!");
-System.out.println(sum3);
+System.out.println(finalsum);
 }
 }
